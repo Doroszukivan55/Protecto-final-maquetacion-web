@@ -1,4 +1,4 @@
- h1{
+h1{
     font-family: "Open Sans", sans-serif;
 }
 
@@ -81,7 +81,7 @@ header{
     height: 100%;
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(245.59deg, #31494e 0%, #385e50 25%, #131313 75%);
+    background: linear-gradient(245.59deg, #654172 0%, #3d1c79 25%, #131313 75%);
     position: relative;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -241,7 +241,7 @@ header{
 }
 
 
-@media (max-width: 768px){
+@media (max-width: 748px){
     .menu-toggle-action{
         display: block;
 
